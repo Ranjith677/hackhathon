@@ -13,9 +13,9 @@ div.innerHTML=`<div class="row">
 
 <div class="container sm-col6" pt-5 p-lg-5"style="background-color:#dce1e1;">
 
-<div class="card justify-content-center " style="width: 50rem; background-color: #6b076d45;">
-    <div class="card-body justify-content-center">
-        <div class="container justify-content-center">
+<div class="container-fluid card  " style="width: 50rem; background-color: #6b076d45;">
+    <div class="card-body ">
+        <div class="container ">
             <form onsubmit="nameData(event)">
              <label for="name"><h6><b>Enter name</b></h6></label>
              <input type="text"name="name" id="text1" placeholder="enter name">
