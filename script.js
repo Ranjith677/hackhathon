@@ -5,7 +5,7 @@ div.innerHTML=`<div class="row">
 <nav class="navbar navbar-light  style="background-color:#daeded;">
     <div class="container-fluid >
       <a class="navbar-brand text-capitalize justify-content-center" href="#">
-        <b class="justify-content-center"> <p class="text-center">Nationlize</p></b>
+        <b> <p class="text-center">Nationlize</p></b>
       </a>
     </div>
   </nav>
